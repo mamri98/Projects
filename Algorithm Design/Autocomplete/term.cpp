@@ -76,8 +76,6 @@ bool operator<(Term T1, Term T2)
 }
 
 // define the operator "<<" for Term class
-// to send the Term object to the cout, in the following format:
-// the weight, followed by a tab key, followed by the query
 ostream& operator<<(ostream &out, const Term& t)
 {
     // your code starts here
