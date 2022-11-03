@@ -3,7 +3,6 @@
  * Project: Project 2
  * Purpose: the implementation of member functions for the SortingList class.
  *          it stores a sequence of objects to perform sorting operation
- *          it is a template class
  *
  */
 
@@ -11,7 +10,7 @@
 #define SORTINGLIST_CPP
 
 #include <iostream>  
-#include <algorithm>  // std::swap (c++98)  it is defined in
+#include <algorithm>
 #include "SortingList.h"
 
 // inserts the newitem to the end of the current vector   
