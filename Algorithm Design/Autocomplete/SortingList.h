@@ -3,8 +3,6 @@
  * Project: Project 2
  * Purpose: the declaration for the SortingList class.
  *          it stores a sequence of objects to perform sorting operation
- *          it is a template class
- *** DO NOT CHANGE THE DECLARATION OF SortingList CLASS ***
  *
  */
 
