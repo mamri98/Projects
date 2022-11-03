@@ -1,10 +1,8 @@
 /*
  * Course: CS216-00x
- * Project: Lab 10 (as part of Project 2)
  * Purpose: repeatedly ask the user to type prefix to match
  *          then generate at maximum THREE matched terms 
  *          and display the matched terms in descending order by weight.
- ***** PLEASE DO NOT CHANGE THIS FILE *****
  */
 
 #include <iostream>
